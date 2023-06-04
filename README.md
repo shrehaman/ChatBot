@@ -1,4 +1,6 @@
 <img src="chatbot.jpeg" width=50% height=50%>
+
+
 # ChatBot
 
 This project is a chatbot that provides automated responses to user inputs. The chatbot uses a json data to and generate appropriate responses for only [CUTM](https://cutm.ac.in/) College. It can be integrated into various applications or platforms to handle user interactions.
